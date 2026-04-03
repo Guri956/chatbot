@@ -19,6 +19,6 @@ If you're new to GitHub, follow these steps:
 10. Add text like: `Hello GitHub!`
 11. Click **Commit new file**.
 
-### Next step
+### Next steps
 
 After this, you can upload code from your computer using Git (Windows/Mac/Linux).
